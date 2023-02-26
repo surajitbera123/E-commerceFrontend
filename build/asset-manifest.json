@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1740cfef.css",
+    "main.js": "/static/js/main.2843c08d.js",
+    "static/media/corousel_1.png": "/static/media/corousel_1.fd80d8caff40aceac665.png",
+    "static/media/corousel_2.png": "/static/media/corousel_2.f5cae61abd42430e8d79.png",
+    "static/media/corousel_3.png": "/static/media/corousel_3.9b857b7e6815d355228a.png",
+    "static/media/homepod1.png": "/static/media/homepod1.5406fc7eae7c7f00dc45.png",
+    "static/media/watch1.png": "/static/media/watch1.56abd125d287ceb30beb.png",
+    "static/media/airpod1.png": "/static/media/airpod1.dbf5f012e5f06064c29a.png",
+    "static/media/shipping.svg": "/static/media/shipping.4ddb8e55df7244f9bf87b62e62bc504d.svg",
+    "static/media/support.svg": "/static/media/support.799264d4870f656f5aaf7aabce32f19b.svg",
+    "static/media/refund.svg": "/static/media/refund.2642c1ac7639914d1b51fc62b7bfd55d.svg",
+    "static/media/cart.svg": "/static/media/cart.47a894d8cf6dac80734ed11146e90f14.svg",
+    "static/media/profile.svg": "/static/media/profile.7e0ebdd5272366fa7d0e0aa59be22cda.svg",
+    "index.html": "/index.html",
+    "main.1740cfef.css.map": "/static/css/main.1740cfef.css.map",
+    "main.2843c08d.js.map": "/static/js/main.2843c08d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1740cfef.css",
+    "static/js/main.2843c08d.js"
+  ]
+}
